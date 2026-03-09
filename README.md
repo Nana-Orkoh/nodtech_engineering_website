@@ -79,15 +79,8 @@ This project serves as the digital front for NODTECH Engineering, aimed at:
 
 ---
 
-## 🤝 Contributing
 
-Feel free to fork this repository, suggest improvements, or build upon it for your own business or portfolio!
 
----
 
-## 📝 License
-
-This project is open for educational and demo purposes. Commercial use should credit **NODTECH Engineering**.
-
-> Built with 💻 and 🚀 by [Nana-Orkoh Dwamena](https://github.com/Nana-Orkoh)
+> Built by [Nana-Orkoh Dwamena](https://github.com/Nana-Orkoh)
 
